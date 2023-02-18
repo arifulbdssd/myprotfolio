@@ -1,0 +1,129 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.clms10 {
+    background-image: url(../img/ba_one.jpg);
+    background-size: cover;
+    /*width: 86%;*/
+}
+
+.clms2 {
+    background-color: #2A2B30;
+    padding: 0px;
+  /*  width: 100%;*/
+    padding-bottom: 2%;
+    height: auto;
+}
+.clms3 {
+    background-color: #2A2B30;
+    padding: 0px;
+    width: 100%;
+    padding-bottom: 2%;
+    height: auto;
+}
+.clms2 h4 {
+    font-size: 20px!important;
+    color: white;
+    background-color: #0791C9;
+    
+    padding: 15px;
+    opacity: 1;
+    text-align: center;
+}
+
+.clms2 ul li {
+    list-style: none;
+    border-bottom: 1px solid gray;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.clms2 ul li a {
+    color: white;
+}
+
+.copyright{
+    margin-top:30%;
+    color: white;
+    text-align: center;
+}
+.social{
+    float: left;
+    margin-left: 32px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.social i {
+    float: right;
+    padding: 5px;
+    margin-right: 12px;
+    font-size: 21px;
+    text-align: center;
+}
+
+.social i:hover {
+    color: white;
+}
+
+.navid {}
+
+.navid ul {
+    padding: 0;
+    margin: 0;
+
+}
+
+.navid ul li {
+    text-decoration: none;
+}
+
+.navid ul li a {
+    text-decoration: none;
+    padding: 20px 0px 20px 40px;
+}
+
+.navid ul li a .fa {
+    padding-right: 20px;
+    padding-bottom: 15px;
+}
+.clms2 span{
+        color: white;
+    font-size: 14px;
+    margin-left: 28px;
+    text-align: justify;
+    margin-top: 20px;
+}
+.clms10 h4 {text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 62px;
+    font-weight: 500;
+    color: #2A2B30;
+    text-align: center;
+    margin-top: 23%;
+        font-family: "Playfair Display", serif;
+}
+
+.clms10 p{
+    font-size: 26px;
+    color: #122F37;
+   /* background-color: #0791C9;*/
+    text-align: center;
+    font-weight: bold;
+}
+.clms10 p span{
+    font-size: 28px;
+    color: #0791C9;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: green;
+}
+.aboutme{
+    margin-bottom: 50px;
+    margin-top: 50px;
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.2);
+    padding-bottom: 10px;
+}
